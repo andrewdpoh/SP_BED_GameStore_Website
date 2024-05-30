@@ -9,7 +9,7 @@ Features include:
 - Game review function
 - Add to Cart function
 
-Screenshots:
+## Screenshot Snippets:
 ![image](https://github.com/andrewdpoh/SP_BED_GameStore_Website/assets/88697807/7d93dbb3-4ad7-4ca0-97be-f2cc8c9c9d25)
 ![image](https://github.com/andrewdpoh/SP_BED_GameStore_Website/assets/88697807/77c71006-cdaa-4142-b388-895126796417)
 ![image](https://github.com/andrewdpoh/SP_BED_GameStore_Website/assets/88697807/f18daae3-a005-46c2-9217-408c5a7bfbbb)
