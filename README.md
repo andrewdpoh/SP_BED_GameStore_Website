@@ -2,7 +2,14 @@
 
 Game Store Website created for the Bacnk-End Development (FED) module in SP. Involves HTML, CSS for the front-end and Javascript (ExpressJS) to handle the back-end with a MySQL database.
 
-Features include:
+## Usage
+1. Clone the project (git clone https://github.com/andrewdpoh/SP_BED_GameStore_Website.git)
+2. In MySQL, run the database.sql
+3. In VSCode terminal, change directory to /SP_BED_GameStore_Website/sp_games/backend/ and run node server.js
+4. In VSCode terminal, change directory to /SP_BED_GameStore_Website/sp_games/frontend/ and run node server.js
+5. Access the link stated in the terminal of /frontend/ in your browser (Should be http://localhost:3001/)
+
+## Features include:
 - Login/Signup function
 - User authentication (JWT tokens)
 - View game library with filters
