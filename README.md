@@ -1,6 +1,6 @@
 # SP_BED_GameStore_Website
 
-Game Store Website created for the Bacn-End Development (FED) module in SP. Involves HTML, CSS for the front-end and Javascript (ExpressJS) to handle the back-end with a MySQL database.
+Game Store Website created for the Bacnk-End Development (FED) module in SP. Involves HTML, CSS for the front-end and Javascript (ExpressJS) to handle the back-end with a MySQL database.
 
 Features include:
 - Login/Signup function
