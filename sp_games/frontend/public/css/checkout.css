@@ -1,0 +1,45 @@
+label{
+    font-weight:400;
+    display:block;
+}
+input{
+    border:0.1rem solid black;
+    border-radius:0.3rem;
+    margin-bottom:1rem;
+}
+div{
+    display:block;
+}
+h1{
+    text-align: center;
+    margin-top:2rem;
+}
+form{
+    margin:auto;
+    margin-top:2rem;
+    padding:1rem;
+    border:0.1rem solid black;
+    border-radius:1rem;
+    width:20rem;
+}
+#checkoutDiv{
+    height:28rem;
+}
+#successDiv{
+    margin:auto;
+}
+#successDiv img{
+    width:15rem;
+    display:block;
+    margin:auto;
+    margin-top:2rem;
+    margin-bottom:5rem;
+}
+#noItemsDiv, #successDiv{
+    height:25rem;
+}
+#noItemsDiv{
+    width:50rem;
+    margin:auto;
+    margin-top:5rem;
+}
